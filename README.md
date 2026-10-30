@@ -9,9 +9,7 @@ L'objectif est de transformer des données brutes en informations exploitables e
 - Visualiser les données avec des boxplots et des scatter plots.
 - Détecter et traiter les valeurs manquantes.
 - Normaliser les données avec Min-Max et Z-score.
-# Contenu
-- TP1_HADBI_HALI.ipynb : notebook du TP.
-- Fichiers .csv et .arff : jeux de données (benchmarks) utilisés pendant les exercices.
+
 # Environnement
 - Python 3
 - Anaconda / Jupyter Notebook
